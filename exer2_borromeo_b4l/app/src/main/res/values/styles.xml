@@ -8,4 +8,12 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="textStyle">
+        <item name="android:layout_margin">@dimen/layout_margin</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:fontFamily">@font/chelsea_market</item>
+        <item name="android:padding">@dimen/small_padding</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+
 </resources>
