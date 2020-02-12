@@ -4,5 +4,107 @@
     <string name="tv_logo">TV Logo</string>
     <string name="start_text">Start</string>
     <string name="retry_text">Retry</string>
-    <string name="tv_logo">TV Logo</string>
+    <string name="agent_p">
+        Perry the Platypus, code named Agent P, is Phineas and Ferb\'s pet platypus, who, unbeknownst to his owners, lives a double life as a secret
+        agent for the O.W.C.A. (The Organization Without a Cool Acronym a.k.a. "The Agency"), a government organization of animal spies. In the Agency,
+        his immediate superior is Major Monogram.
+        \n\nPerry appears to be selfless and devoid of vanity. In "The Best Lazy Day Ever", it is only after he turns everything else affected by the
+        Ugly-inator back to normal that he reverts himself to his normal state. He deeply cares about the Flynn-Fletcher family and is afraid to lose
+        them. He will take immediate action whenever they are threatened ("Journey to the Center of Candace", "Phineas and Ferb Get Busted!", "Oh,
+        There You Are, Perry", Phineas and Ferb The Movie: Across the 2nd Dimension, "Where's Perry?", "Where's Perry? (Part Two)", "Phineas and Ferb
+        Save Summer"). He is nice to not only his allies but to his nemesis Dr. Doofenshmirtz as well, though only on some occasions
+        ("Oil on Candace", "Thaddeus and Thor", "Brain Drain", "Skiddley Whiffers", "When Worlds Collide", "Road to Danville").
+    </string>
+    <string name="candace">
+        Candace Gertrude Flynn is the 15-year-old sister of Phineas Flynn and the step-sister of Ferb Fletcher. The eldest child of the Flynn-Fletcher
+        household, she spends large portions of her time striving, but never succeeding to get her brothers in trouble for the things they do every day.
+        \n\nA more successful venture that sometimes clashes with or overrides her need to bust her brothers, is her infatuation with Jeremy Johnson.
+        While she isn\'t doing these, she would often be seen conversing on the phone, or hanging out with Stacy Hirano and less often Jenny Brown,
+        where she usually talks about Jeremy or tries to recruit their help in busting her brothers.
+        \n\nCandace has been known to lose her patience very easily and panic at the pettiest of things. For this, Linda attended an author visitation for
+        the series, You and Your High Strung Teen by Bridgette Oshinomi. Bridgette herself related with Linda to having a vigorous daughter of her own but
+        was officially convinced that Candace was much more unstable than her own daughter after seeing the photo she sent to Linda's cellphone. However,
+        she along with Linda remained unaware of the circumstances under which the photo was taken.
+    </string>
+    <string name="danny_fenton">
+        Daniel "Danny" Fenton, also known by his alias Danny Phantom, is the titular protagonist of the television series Danny Phantom. Becoming a
+        half-human/half-ghost during a Lab accident, Danny has taken on the role of a ghostly superhero to protect Amity Park and the world from the
+        dangerous ghosts of the Ghost Zone.
+        \n\nWhen he\'s not worrying about ghosts, Danny is kind, easy-going, helpful, and compassionate at times. He likes using his ghost powers for
+        good, but, being a teenage boy, is not always above using them to get revenge on bullies or sneak into the girls' locker room. His ghost
+        hunting often cuts into his school work time, but he does work hard when he puts his mind on the task at hand. He loves making puns and
+        exchanging witty banter during his fights, and while there's moments when he under-appreciates his friends, he is thankful to have them.
+    </string>
+    <string name="doofenshmirtz">
+        Dr. Heinz Doofenshmirtz, {Dr. D, Dr. Doofenshmirtz, Doofenshmirtz, Heinz or Doof for short, nicknamed Slouchy by Rodney, Heinz the Ocelot,
+        Professor Time (around 15 years after the current show time)} is a 47 year old evil scientist hailing from the country of Drusselstein. He is the
+        head of Doofenshmirtz Evil Incorporated. He tends not to be evil in the traditional sense, but rather overly dramatic, eccentric and generally
+        clueless. His incompetence is showed particularly in "Bullseye!", when he is seen with Rodney discussing Lawrence\'s awful performance, with
+        Rodney stating "I didn't think anyone could be more incompetent at being evil than you", and Heinz replying, "Me neither". His usual lair is an
+        office building that he apparently owns, though he\'s worked from other locations when necessary for his plans. He attempts to wreak generally
+        "evil" havoc and assert his rule across the entire Tri-State Area. Despite true dedication to this mission, almost all of his plans have been
+        thwarted by his nemesis Perry the Platypus, though a few turn out to be successful in nature. (Doofenshmirtz has become so used to this foiling
+        that he tends to feel empty or upset on the few occasions where Perry does not stand in his way). Dr. Doofenshmirtz seems to quite enjoy musical
+        numbers, and has performed songs about "impressing his professor" and how he hates his brother among other subjects. Though most of his plans are
+        frequently flawful at best and his doctorate was purchased off the internet, some of his inventions (almost always suffixed with "-inator") have
+        been fairly impressive and successful. Online, Doofenshmirtz goes by the names of StrudelCutie4427, and JohnnyRingoenshmirtz217.
+    </string>
+    <string name="grim">
+        The Grim Reaper (or just Grim) is the protagonist of the franchise. He is an undead skeleton personification of Death, who speaks with a
+        Jamaican accent. After having lost to Billy and Mandy after Mandy cheated in a limbo contest over the soul of Mr. Snuggles (and also the soul
+        of Billy himself), Grim is now forced to be their best friend forever. If Grim does not live up to his commitment, he will be stripped of his
+        powers and be forced to spend eternity in Underworld Jail.
+        \n\nGrim is often stuck with cleaning-up the consequences of mishaps that are in no small part due to Billy's stupidity and lack of common
+        sense. On Mandy's part, Grim is often forced to do her chores and obey her direct orders, as her unwilling slave. It is stated several times in
+        the series that he does the dishes every single day for Billy and Mandy ever since they first met which he seriously despises.
+    </string>
+    <string name="kuzco">
+        Kuzco (also known as Emperor Kuzco) is the protagonist of Disney\'s 2000 animated feature film, The Emperor\'s New Groove. He is the Emperor of
+        the Inca Empire in Peru, known for his arrogant and saucy personality. When his ruthless behavior gets him transformed into a talking llama, Kuzco
+        slowly comes to realize the error of his ways.
+        \n\nKuzco is initially portrayed as an arrogant, comically conceited, selfish, cocky, sarcastic teenager, albeit with a sense of flair, style, and
+        pizzazz, as he never takes his job as emperor too seriously. His nature was petty such as having an old man thrown out of the window (but not
+        killing him) simply because Kuzco blamed him for "ruining his groove" in the opening song (when Kuzco bumped into him due to not being aware of his
+        surroundings), as well as sadistically taunting Pacha with the destruction of the latter's village before having him escorted out when revealing
+        his plans to create Kuzcotopia. He also was initially unwilling to marry any girls who didn't meet his image, often bluntly and rudely dismissing
+        them, as evidenced by the opening of the movie where he had to choose the bride, and refused them just from brief glances. It is implied that this
+        personality stemmed from the fact that Yzma practically raised him from childhood. However, it is also shown that his selfish ways were a cover-up
+        for his yearning for a family, which he never had.
+    </string>
+    <string name="mr_krabs">
+        Eugene Harold Krabs, simply and more commonly known as Mr. Krabs, is one of the ten main characters in the SpongeBob SquarePants franchise.
+        He is a red crab who lives in an anchor with his daughter, Pearl, who is a whale. He is the owner and founder of the Krusty Krab restaurant as
+        well as the employer of both SpongeBob and Squidward.
+        \n\nMr. Krabs is extremely greedy and obsessed with money to the point where he occasionally treats money better than his employees and
+        daughter. The series exaggerates Mr. Krabs\' greed, with him often anthropomorphizing money. Mr. Krabs is mostly respected by SpongeBob, who
+        sees him as a father figure, while Squidward tends to loathe him.
+        \n\nMr. Krabs' nemesis and business rival is Sheldon J. Plankton, co-owner of the Chum Bucket with his wife Karen. Plankton was Krabs' best
+        friend during childhood, but he is now bent on stealing the Krabby Patty secret formula that makes the Krusty Krab so successful.
+    </string>
+    <srtring name="patrick_star">
+        Patrick Star is one of the ten main characters of the SpongeBob SquarePants series. He is SpongeBob\'s best friend as well as one of his two
+        neighbors.
+        \n\nHe lives under a rock in the underwater city of Bikini Bottom. SpongeBob and Squidward are his two neighbors, with one on each side of
+        his residence.
+        \n\nBoth he and SpongeBob like to bother Squidward; though they do it unknowingly and have good intentions. He is the son of Herb and
+        Margie Star and the brother of Sam Star.
+    </srtring>
+    <string name="sam_manson">
+        Samantha "Sam" Manson is one of Danny\'s best friends. She is a self-proclaimed Goth who is fascinated with the subliminal and netherworldly,
+        and is a very outspoken ultra-recyclo-vegetarian.
+        \n\nSam\'s personality is less dreary than the stereotypical "goth" persona that is usually shown. She can be rational, sarcastic, forceful,
+        bossy, passionate, strong-willed, but also good-hearted and caring. Based on how she conducts herself, it would be fairer to say that she
+        labels herself a goth more as an outlet for her independence and individuality than as an embrace of how the stereotypical goth is presumed to
+        behave. She isn't spoiled and would rather earn real friends instead of dealing with the popularity and fake friendships that come with
+        wealth.
+    </string>
+    <string name="taylor_hebert">
+        Taylor Anne Hebert is the main character of Worm.
+        \n\nShe is an exceptionally accomplished martial artist; her bug-swarm-enhanced senses enable her to react to events faster than a normal
+        human should be able to. She can easily defeat even other experienced parahumans in hand-to-hand combat. The boost to her senses and
+        coordination due to her swarm also allows her exceptional accuracy with firearms. Personality-wise, she is noted to be cold, distant,
+        exceptionally driven, and even ruthless by many characters.
+        \n\nShe became concerned that her passenger was influencing her behaviour. She even blamed ordinary emotions on her passenger. She tried
+        hypnosis and bartering with it to control it, to no avail. Eventually she made a kind of peace with it.
+    </string>
 </resources>
